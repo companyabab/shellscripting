@@ -1,5 +1,6 @@
-#!/bin/sh
-
+#!/bin/sk
+#hello worls=
+#changes made in dev1
 echo 
 ARRAY=(one two three)
 echo ${ARRAY[*]}
