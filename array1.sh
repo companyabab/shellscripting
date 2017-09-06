@@ -1,4 +1,4 @@
-#!/bin/sk
+#!/bin/sh
 #hello worls=
 #changes made in dev1
 echo 
