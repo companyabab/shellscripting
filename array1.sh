@@ -23,3 +23,8 @@ echo ${ARRAY[*]}
 unset ARRAY
 echo "balance:" ${ARRAY[*]}
 echo ${#ARRAY}
+ARRAY=six
+echo ${ARRAY[*]}
+unset ARRAY
+echo "balance:" ${ARRAY[*]}
+echo ${#ARRAY}
